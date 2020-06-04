@@ -4,9 +4,11 @@ Python code for data fetch and real time visualization with the yd-lidar x4 lase
 
 ![Screenshot visualization](/doku/real_time_plot.png)
 
-### pip install requirements.txt
 
 ### How To Run:
+```sh
+$ pip install requirements.txt
+```
 ```sh
 $ python main.py
 ```
